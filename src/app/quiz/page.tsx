@@ -5,8 +5,8 @@ import { redirect } from "next/navigation";
 import QuizCreation from "@/components/forms/QuizCreation";
 
 export const metadata = {
-  title: "Quiz | Quizzzy",
-  description: "Quiz yourself on anything!",
+  title: "Quiz | Clarity",
+  description: "Allenati su qualsiasi cosa!",
 };
 
 interface Props {
