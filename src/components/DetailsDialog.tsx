@@ -16,7 +16,7 @@ const DetailsDialog = (props: Props) => {
     <Dialog>
       <DialogTrigger aria-label="Open details">
         <span className="flex items-center px-2 py-1 text-white rounded-md bg-slate-800">
-          What is this
+          Che cosa è questo?
           <HelpCircle className="w-5 h-5 ml-1" />
         </span>
       </DialogTrigger>
